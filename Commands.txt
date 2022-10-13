@@ -1,0 +1,2 @@
+node server.js -> to run the js file directly
+npm run <script variable> -> to run the variable configured in pakage.json file inside script tag
